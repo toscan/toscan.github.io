@@ -6,9 +6,15 @@ h1 {color:pink;
      text-align:center;
      font-size:40px}
 
- p.meal { color:brown;
+ p.meal { color:#F14002;
                 font-size:20.70px
             }
+ .info1 { text-decoration: none;
+ 		color: pink;
+             }
+.info1:hover {
+		color: limegreen;
+}
 
 body { background-image: url(" https://thumbs.dreamstime.com/z/hand-holding-tray-menu-service-logo-vector-illustration-hand-holding-tray-menu-service-logo-vector-illustration-isolated-134236565.jpg");
        background-size: 1400px;}
@@ -47,3 +53,29 @@ color: brown}
  color: brown }
  img{ height: 250px;
  width: 100%; }
+
+ input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: Verdana, sans serif;
+}
+.fname {
+	font-family: Verdana, sans-serif;
+	color: pink;
+}
+.valid {
+	font-family: Verdana, sans-serif;
+	margin: 0 100px;
+}
+.order{
+	font-family: Verdana, sans-serif;
+	margin: 0 100px;
+}
+.valid:hover {
+	color: limegreen;
+}
