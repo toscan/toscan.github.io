@@ -1,0 +1,43 @@
+p
+{
+	color:#220f30;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-color:   #d0d3d4
+
+
+}
+.flex-container > div {
+  background-color: #979a9a;
+  width: 500px;
+  margin: 10px;
+
+
+}
+.parole {
+	font-style: italic;
+	text-align: center;
+}
+.flex-container{
+	display: flex;
+    justify-content: space-around;
+    align-items: flex-start;  
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+	  font-family: Arial, Helvetica, sans-serif;
+}
+audio{
+	  display: flex;
+      justify-content: center;
+      width: 700px;
+}
+.flex-container > div{
+  border: 2px solid grey;
+  padding: 10px;
+  border-radius: 25px;

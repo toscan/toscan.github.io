@@ -1,0 +1,148 @@
+p.verdana {
+	font-family: Verdana, Geneva sans-serif;
+}
+.gryfftext{
+	color: #C0392B;
+}
+.serdtext{
+	color: #3498DB ;
+}
+.serptext{
+	color: #28B463 ;
+}
+.pouftext{
+	color: #F1C40F ;
+}
+.italique{
+	font-style: italic;
+}
+.bloc1 {
+	background-color: #F3F0EF;
+}
+.blocgryff {
+	background-color: #FFF0E1;
+}
+.blocserd {
+	background-color: #E8FEFE;
+}
+.blocserp {
+	background-color: #D6FCC5;
+}
+.blocpouf {
+	background-color: #FBFCC5;
+}
+.bloc1 .b1p2 {
+	font-style: italic;
+}
+.accueil li {
+	display: inline-block;
+	background: #EFE9F1;
+	width: 600px;
+}
+.navigation li {
+	display: inline-block;
+	width: 250px;
+}
+.maisons {
+	text-decoration: none;
+	font-family: Verdana, sans-serif;
+	color: black;
+	margin: 30px;
+}
+.lieux {
+	text-decoration: none;
+	font-family: Verdana, sans-serif;
+	color: black;
+	margin: 30px;
+}
+.maisons:hover {
+	color:white;
+}
+.lieux:hover {
+	color:white;
+}
+.gryffondornav:hover {
+	color:red;
+}
+.serdaiglenav:hover {
+	color: blue;
+}
+.serpentardnav:hover {
+	color: green;
+}
+.pouffsoufflenav:hover {
+	color: gold;
+}
+.gryffondornav {
+	text-decoration: none;
+	font-family: Verdana, sans-serif;
+	color:black;
+	margin: 100px;
+}
+.serdaiglenav {
+	text-decoration: none;
+	font-family: Verdana, sans-serif;
+	color:black;
+	margin: 100px;
+}
+.serpentardnav {
+	text-decoration: none;
+	font-family: Verdana, sans-serif;
+	color:black;
+	margin: 100px;
+}
+.pouffsoufflenav {
+	text-decoration: none;
+	font-family: Verdana, sans-serif;
+	color:black;
+	margin: 100px;
+}
+.trait {
+	text-decoration: none;
+}
+.verdana {
+	font-family: Verdana, sans-serif,
+}
+#maison{
+	color: grey;
+}
+.cacher{
+	width: 26%;
+}
+.display {
+	display: none;
+}
+.navgrandesalle{
+	text-decoration: none;
+}
+.mlieu{
+	text-decoration: none;
+}
+.navbibli{
+	text-decoration: none;
+}
+.tbibli{
+	font-family: Verdana, sans-serif;
+	color: black;
+}
+.tibibli{
+	text-align: center;
+}
+.flex-container{
+	display: flex;
+	justify-content: space-around;
+}
+.tgrandes{
+	font-family: Verdana,sans-serif;
+}
+bodye (c'est body_ mais là c'est juste pour garder le texte sans que ça le fasse)
+{
+    
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 250px;
+}
+.img {
+	align-content: center;
+}

@@ -1,0 +1,91 @@
+p
+{
+	color:#220f30;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-color:   #d0d3d4
+
+
+}
+table{
+	color: #220f30
+}
+img{
+	height: 550px;
+	width: 100%;
+}
+.BoyzIIMen{
+	color: #0f0101
+}
+h1{
+	
+  font-family: Arial, Helvetica, sans-serif;
+}
+.tableau{
+	font-family: Arial, Helvetica, sans-serif;
+	color:  #212f3d;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.bloc1{
+	color: #271F47;
+}
+.bloc2{
+	color: #c0c1c9;
+}
+.bloc3{
+	color: #939394;
+}
+.bloc1 .paragraphe{
+     color: #271F47;
+}
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color:  #283747 ;
+  border: solid 1px  #000000 ;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+  color:  #000000;
+}
+#panel2, #flip2 {
+  padding: 5px;
+  text-align: center;
+  background-color:  #a93226 ;
+  border: solid 1px  #000000 ;
+}
+
+#panel2 {
+  padding: 50px;
+  display: none;
+  color:  #000000;
+}
+
+.flex-container{
+	  display: flex;
+      justify-content: space-around;
+      align-items: flex-start;
+
+}
+.flex-container > div {
+  background-color: #979a9a;
+  width: 500px;
+  margin: 10px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid grey;
+  padding: 10px;
+  border-radius: 25px;
+}
+ #ABC {
+  from {background-image: url(BoyzIIMen.jpg);
+  to {background-image: url(ABC.jpg);}
+}

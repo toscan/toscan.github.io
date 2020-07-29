@@ -1,0 +1,49 @@
+h1 {color:pink;
+ text-align: center;
+   font-size:50px;
+    }
+ h2 {color:limegreen;
+     text-align:center;
+     font-size:40px}
+
+ p.meal { color:brown;
+                font-size:20.70px
+            }
+
+body { background-image: url(" https://thumbs.dreamstime.com/z/hand-holding-tray-menu-service-logo-vector-illustration-hand-holding-tray-menu-service-logo-vector-illustration-isolated-134236565.jpg");
+       background-size: 1400px;}
+       
+  .explanation { 
+  display: flex;
+  flex-direction: center;
+  justify-content: flex-start;
+  color: brown;
+   }
+
+   img{ height: 250px;
+         width: 100% ; }
+
+   .entrees { 
+   display: flex;
+   flex-direction: center;
+   justify-content: flex-start; 
+color: brown
+}
+   img{ height: 250px;
+         width: 100%; }
+
+   .desserts{ 
+   display: flex;
+   flex-direction: center;
+   justify-content: flex-start; 
+color: brown}
+   img { height: 250px;
+       width: 100%; }
+
+
+ .Drinks { display: flex;
+ flex-direction: center;
+ justify-content: flex-start;
+ color: brown }
+ img{ height: 250px;
+ width: 100%; }
